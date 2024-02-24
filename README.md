@@ -1,2 +1,2 @@
 # Data-Engineering
-Used DataBricks platform for to Learn Apache Spark
+Used DataBricks platform  to Learn Apache Spark
